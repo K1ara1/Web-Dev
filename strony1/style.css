@@ -11,6 +11,8 @@ li{
     list-style: none;
     font-size: 30px;
     color:aliceblue;
+    font-family:'Lucida Sans';
+    font-style: italic;
 }
 
 nav {
@@ -41,4 +43,13 @@ h1{
 a{
     text-decoration: none;
     color: azure;
+}
+a:hover{
+    color:blueviolet;
+}
+#car{
+    font-size: 3rem;
+    position: absolute;
+    top: 5vh;
+    left: 5vw;
 }
